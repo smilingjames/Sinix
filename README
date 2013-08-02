@@ -4,6 +4,6 @@ As a start points, all source codes came from Yuyuan's book.
 Here many appresiate to Yuyuan, his book(Orang's: the implement of an OS) is so wonderful, and give my many many many helps on looking into kernel more.
 Under his helps, I feel I caught a tiny little fragment on the spirit of linux kernel, many thanks to Yu!!!
 
-I re-do this little os under the guide of that book, in the following, I plan to continue to more investigation and try to add some feature in my spare time, so, I select github as the codes management base.
+I re-do this little OS under the guide of that book, in the following, I plan to continue to more investigation and try to add some feature in my spare time, so, I select github as the codes management base.
 
 Hope I can do more standing on the shoulder of giant...
